@@ -1,8 +1,8 @@
 Show us Your TD league rules:
 1. Winning payout --
-    1st place money to tournament winner
-    2nd place money to most points in regular season
-    3rd place money to 2nd place in tournament
+    - 1st place money to tournament winner
+    - 2nd place money to most points in regular season
+    - 3rd place money to 2nd place in tournament
 2. Draft order -- 
     Winner of loser's bracket gets 1st pick. Reverse order of regular season standing for remaining rounds. snake order
 3. Keeper rules --
