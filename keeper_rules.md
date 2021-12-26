@@ -9,7 +9,7 @@ Show us Your TD league rules:
     - Keep 0-4 players from your team, no salary cap rules
 3. Draft penalty
     - Draft position of previous year of your keeper removes that draft pick (for remaining years of keeping, see next).
-    TBD: 3-5 years of max time to keep any player
+    - TBD: 3-5 years of max time to keep any player (?)
     
 Notes:
 1. When trading any draft pick for a player, must also receive a draft in order to balance the number of drafts in the next year. i.e. i trade a 1st round draft pick to get cooper kupp, the other manager gives cooper kupp + 16th round pick
